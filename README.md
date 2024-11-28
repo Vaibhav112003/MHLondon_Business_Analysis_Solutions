@@ -79,5 +79,19 @@ To develop a **Sales Dashboard** for 2023, focusing on actionable insights for d
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 💡 Key Learnings  
+- Gained expertise in **dynamic Excel formulas** for financial and operational analysis.  
+- Designed a **data-driven dashboard** in Power BI to derive actionable business insights.  
+- Applied logical thinking to analyze **turnover priorities** and patterns over time.  
+- Enhanced ability to **automate calculations** and maintain **formula transparency**.
+
+---
+
+## 🛠️ Tools & Techniques Used  
+- **Excel**: Advanced formulas (**SUMIF**, **COUNTIF**, **INDEX-MATCH**, etc.), automated net amount calculations.  
+- **Power BI**: Interactive dashboards, trend analysis, and actionable visualizations.
+
 
